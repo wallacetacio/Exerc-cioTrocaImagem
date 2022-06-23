@@ -1,0 +1,41 @@
+body{
+    background: rgb(216, 146, 195);
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#img {
+    display: flex;
+    justify-content: center;  
+}
+
+img {
+    width: 75%;
+    height: 10%;
+}
+
+.imagem0 {
+    width: 68%;
+}
+
+.imagem1 {
+    width: 45%;
+}
+
+.imagem2 {
+    width: 55%;
+}
+
+.imagem3 {
+    width: 55%;
+}
+
+button {
+    margin-top: 15px;
+    width: 100px;
+    align-self: center;
+}
